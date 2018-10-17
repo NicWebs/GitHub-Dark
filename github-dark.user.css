@@ -190,7 +190,7 @@
   } EOT;
 }
 ==/UserStyle== */
-@-moz-document regexp("^https?://((blog|gist|guides|help|raw|resources|status|developer)\\.)?github\\.com/((?!generated_pages/preview).)*$"), domain("githubusercontent.com"), domain("graphql-explorer.githubapp.com") {
+@-moz-document regexp("^https?://((blog|gist|guides|help|raw|resources|status|developer)\\.)?github(\.ibm)?\\.com/((?!generated_pages/preview).)*$"), domain("githubusercontent.com"), domain("graphql-explorer.githubapp.com") {
 /*! Github Dark v1.20.75 (2018-10-16) */
 /*! Repository: https://github.com/StylishThemes/GitHub-Dark    */
 /*! Userstyle:  http://userstyles.org/styles/37035              */
